@@ -31,6 +31,12 @@
 *.out
 *.app
 
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
 # vscode
 .vscode
 
